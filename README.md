@@ -1,5 +1,3 @@
-Here is a complete and self-contained README file in English, based on the information provided, using Markdown for clarity and readability:
-
 ---
 
 # Heart Failure Prediction Using Ensemble Learning Methods
